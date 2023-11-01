@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkdeals_store=self.webpackChunkdeals_store||[]).push([[854],{854:function(e,s,t){t.r(s);var u=t(184);s.default=function(){return(0,u.jsx)("div",{children:"About Us"})}}}]);
+//# sourceMappingURL=854.75e40108.chunk.js.map

@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/deals-store/static/css/main.d0956ffc.css",
+    "main.js": "/deals-store/static/js/main.02fa70ff.js",
+    "static/js/822.8c9cd5e9.chunk.js": "/deals-store/static/js/822.8c9cd5e9.chunk.js",
+    "static/js/423.c91e9556.chunk.js": "/deals-store/static/js/423.c91e9556.chunk.js",
+    "static/js/854.75e40108.chunk.js": "/deals-store/static/js/854.75e40108.chunk.js",
+    "static/js/550.c585ffb1.chunk.js": "/deals-store/static/js/550.c585ffb1.chunk.js",
+    "static/js/668.6e1c5c38.chunk.js": "/deals-store/static/js/668.6e1c5c38.chunk.js",
+    "static/js/998.afbd600f.chunk.js": "/deals-store/static/js/998.afbd600f.chunk.js",
+    "static/media/whatsapp.png": "/deals-store/static/media/whatsapp.002bae702b0367218f09.png",
+    "static/media/telegram.png": "/deals-store/static/media/telegram.e9722f26cc228e817986.png",
+    "static/media/magnifying-glass.png": "/deals-store/static/media/magnifying-glass.18fcaeafedd72e3c77d4.png",
+    "static/media/MenuLogo.svg": "/deals-store/static/media/MenuLogo.ce4905c6ef5eb90d10eec09507fa315e.svg",
+    "static/media/Logo.svg": "/deals-store/static/media/Logo.812e14dbacf29809974256d2fbb2de23.svg",
+    "index.html": "/deals-store/index.html",
+    "main.d0956ffc.css.map": "/deals-store/static/css/main.d0956ffc.css.map",
+    "main.02fa70ff.js.map": "/deals-store/static/js/main.02fa70ff.js.map",
+    "822.8c9cd5e9.chunk.js.map": "/deals-store/static/js/822.8c9cd5e9.chunk.js.map",
+    "423.c91e9556.chunk.js.map": "/deals-store/static/js/423.c91e9556.chunk.js.map",
+    "854.75e40108.chunk.js.map": "/deals-store/static/js/854.75e40108.chunk.js.map",
+    "550.c585ffb1.chunk.js.map": "/deals-store/static/js/550.c585ffb1.chunk.js.map",
+    "668.6e1c5c38.chunk.js.map": "/deals-store/static/js/668.6e1c5c38.chunk.js.map",
+    "998.afbd600f.chunk.js.map": "/deals-store/static/js/998.afbd600f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d0956ffc.css",
+    "static/js/main.02fa70ff.js"
+  ]
+}

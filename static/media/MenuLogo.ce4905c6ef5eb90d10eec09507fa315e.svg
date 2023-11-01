@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_3" data-name="Layer 3" xmlns="http://www.w3.org/2000/svg" width="300" height="200" viewBox="0 0 617.9 484.81">
+  <defs>
+    <style>
+      .cls-6 {
+        font-size: 176.39px;
+      }
+
+      .cls-6, .cls-7, .cls-8 {
+        font-weight: 700;
+      }
+
+      .cls-6, .cls-8 {
+        fill: #24144E;
+        font-family: LEMONMILK-Bold, 'LEMON MILK';
+      }
+
+      .cls-7 {
+        font-family: GTWalsheimPro-Bold, 'GT Walsheim Pro';
+        font-size: 319.65px;
+      }
+
+      .cls-7, .cls-4 {
+        fill: #37d162;
+      }
+
+      .cls-8 {
+        font-size: 70.51px;
+      }
+    </style>
+  </defs>
+  <g id="Layer_1-2" data-name="Layer 1">
+    <g>
+      <text class="cls-6" transform="translate(226.1 284.35)"><tspan x="0" y="0">TUN</tspan></text>
+      <text class="cls-8" transform="translate(361.22 356.99)"><tspan x="0" y="0">DEALS</tspan></text>
+      <g>
+        <text class="cls-7" transform="translate(66.63 308.95) rotate(-14.2)"><tspan x="0" y="0">S</tspan></text>
+        <rect class="cls-4" x="121.1" y="38.14" width="17.36" height="278.25" transform="translate(-39.51 37.24) rotate(-14.2)"/>
+      </g>
+    </g>
+  </g>
+</svg>
