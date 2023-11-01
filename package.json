@@ -2,7 +2,7 @@
   "name": "deals-store",
   "version": "0.1.0",
   "proxy": "https://admin.stundeals.com",
-  "homepage": "https://A-Gulinsky.github.io/deals-store/",
+  "homepage": "http://localhost:3000/deals-store",
   "private": true,
   "dependencies": {
     "@emotion/react": "^11.11.1",

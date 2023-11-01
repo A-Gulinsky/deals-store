@@ -4,8 +4,6 @@ import { Ul } from "./DealsList.styled"
 
 export const DealsList = ({handleItemClick, data}) => {
 
-  
-
   return (
     <Ul>
 

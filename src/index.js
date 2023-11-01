@@ -1,21 +1,17 @@
 import React from 'react';
-import ReactDOM from 'react-dom/client';
+import {createRoot} from 'react-dom/client'
 import './index.css';
 import App from './App';
 
-import { BrowserRouter } from "react-router-dom";
 import { Provider } from 'react-redux';
-
+import { HashRouter as Router } from 'react-router-dom';
 import { store } from 'redux/store';
 
-const root = ReactDOM.createRoot(document.getElementById('root'));
+const root = createRoot(document.getElementById('root'));
 root.render(
-
-  <BrowserRouter basename='deals-store'>
+  <Router basename="/">
     <Provider store={store}>
       <App />
     </Provider>
-  
-  </BrowserRouter>
-  
+  </Router>
 );
