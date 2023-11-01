@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/deals-store/static/css/main.d0956ffc.css",
-    "main.js": "/deals-store/static/js/main.02fa70ff.js",
+    "main.js": "/deals-store/static/js/main.8b666b41.js",
     "static/js/822.8c9cd5e9.chunk.js": "/deals-store/static/js/822.8c9cd5e9.chunk.js",
     "static/js/423.c91e9556.chunk.js": "/deals-store/static/js/423.c91e9556.chunk.js",
     "static/js/854.75e40108.chunk.js": "/deals-store/static/js/854.75e40108.chunk.js",
@@ -15,7 +15,7 @@
     "static/media/Logo.svg": "/deals-store/static/media/Logo.812e14dbacf29809974256d2fbb2de23.svg",
     "index.html": "/deals-store/index.html",
     "main.d0956ffc.css.map": "/deals-store/static/css/main.d0956ffc.css.map",
-    "main.02fa70ff.js.map": "/deals-store/static/js/main.02fa70ff.js.map",
+    "main.8b666b41.js.map": "/deals-store/static/js/main.8b666b41.js.map",
     "822.8c9cd5e9.chunk.js.map": "/deals-store/static/js/822.8c9cd5e9.chunk.js.map",
     "423.c91e9556.chunk.js.map": "/deals-store/static/js/423.c91e9556.chunk.js.map",
     "854.75e40108.chunk.js.map": "/deals-store/static/js/854.75e40108.chunk.js.map",
@@ -25,6 +25,6 @@
   },
   "entrypoints": [
     "static/css/main.d0956ffc.css",
-    "static/js/main.02fa70ff.js"
+    "static/js/main.8b666b41.js"
   ]
 }
